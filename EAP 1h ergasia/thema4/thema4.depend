@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479160404 source:c:\users\giannhs\desktop\eap 1h ergasia\thema4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
